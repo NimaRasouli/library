@@ -1,0 +1,85 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "nima",
+      "Username": "NimaUser",
+      "email": "test@gmail.com",
+      "crime": 200,
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "name": "ahmad",
+      "Username": "002",
+      "email": "test@gmail.com",
+      "crime": 0,
+      "role": "USER"
+    },
+    {
+      "id": "ebda629e-5a94-4299-8422-ceef6645f883",
+      "name": "alireza",
+      "email": "testemail@gmail.com",
+      "crime": 0
+    },
+    {
+      "id": "5fb70b6d-7173-4c57-b8e2-46536bc73fdd",
+      "name": "nima",
+      "Username": "Nimaser",
+      "email": "testemail2@gmail.com",
+      "role": "USER"
+    }
+  ],
+  "Books": [
+    {
+      "id": 1,
+      "title": "khanjar",
+      "author": "david",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": 10,
+      "title": "newBook7",
+      "author": "nima",
+      "price": 2304821,
+      "free": 0
+    },
+    {
+      "id": "65917b9a-7f5e-4c84-b3b9-c075e2206870",
+      "author": "person",
+      "price": 230000,
+      "title": "newBook",
+      "free": 1
+    },
+    {
+      "id": "33ce9c90-2f11-48a3-ac7f-2fcf01bfc8a9",
+      "author": "person 2",
+      "price": 230000,
+      "title": "newBook2",
+      "free": 1
+    },
+    {
+      "id": "e7ec70aa-27c8-465f-8035-90f0ecaf7614",
+      "author": "person 2",
+      "price": 230000,
+      "title": "newBook2",
+      "free": 1
+    },
+    {
+      "id": "1c23226b-de6b-4473-83cb-fb940eb51729",
+      "author": "person 2",
+      "price": 230000,
+      "title": "newBook2",
+      "free": 1
+    }
+  ],
+  "rents": [
+    { "id": "", "BookID": "", "UserID": "" },
+    {
+      "id": "fd27bc7a-e2df-4200-b261-6a4e244058d6",
+      "BookID": "65917b9a-7f5e-4c84-b3b9-c075e2206870",
+      "UserID": 1
+    }
+  ]
+}
